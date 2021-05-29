@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1592416695 source:c:\users\naimul hp spectre\onedrive\documents\c++ projects\calcgpa\main.cpp
+	<iostream>
+	<climits>
+	<cstring>
+	<ios>
+
